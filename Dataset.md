@@ -1,6 +1,5 @@
 ### Dataset Source: https://support.google.com/analytics/answer/3437719?hl=en
 ### Table Schema
-### 📊 Dataset Schema (Google Analytics Sample)
 
 | Field Name                               | Data Type | Description |
 |------------------------------------------|-----------|-------------|
