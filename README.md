@@ -1,4 +1,4 @@
-# User Behavior & Sales Performance Analysis | E-commerce | SQL (BigQuery)
+# [SQL] Sales Performance Analysis | E-commerce
 ## **I. Introduction**
 
 This project uses the public Google Analytics eCommerce dataset to explore and analyze user activities and sales performance using SQL in Google BigQuery. The dataset includes session-level information from users visiting an eCommerce website.
