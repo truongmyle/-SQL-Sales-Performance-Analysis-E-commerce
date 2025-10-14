@@ -89,6 +89,7 @@ Analyze traffic trends (visits, pageviews, transactions) over Q1 2017 to assess 
 
 ✅Result:
   
+<img width="789" height="134" alt="R1" src="https://github.com/user-attachments/assets/7d5f2ded-5646-4c47-88bd-7ef9d0cc3df0" />
 
 🎯Observations:
 
