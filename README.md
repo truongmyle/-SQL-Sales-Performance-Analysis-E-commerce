@@ -84,13 +84,11 @@ To access the dataset, follow these steps:
 Analyze traffic trends (visits, pageviews, transactions) over Q1 2017 to assess website growth and marketing campaign performance across time.
 
 📖SQL code:
-  
-  <img width="667" height="194" alt="image" src="https://github.com/user-attachments/assets/116913d5-8ad7-4e7c-8629-fa67884c0d49" />
 
+  <img width="667" height="194" alt="C1" src="https://github.com/user-attachments/assets/82622b9a-ba42-4bf1-9188-57b2ba20ecc0" />
 
 ✅Result:
   
-  <img width="788" height="130" alt="image" src="https://github.com/user-attachments/assets/c924ffc7-ce32-4102-9ae6-ec508748e7bc" />
 
 🎯Observations:
 
@@ -102,14 +100,13 @@ Analyze traffic trends (visits, pageviews, transactions) over Q1 2017 to assess 
 Bounce rate represents the percentage of website sessions where users visit only one page and leave without interacting further with the site. Bounce rate helps identify which channels attract high-quality visitors and which need optimization.
 
 📖SQL code:
-  
-<img width="690" height="162" alt="image" src="https://github.com/user-attachments/assets/06cc14e9-51b0-48f3-ab39-4d59d5cef268" />
 
+  <img width="690" height="162" alt="C2" src="https://github.com/user-attachments/assets/4ade25c0-1217-4c51-a1cb-87ba2b5c5e3c" />
 
 ✅Result:
-  
-  <img width="788" height="269" alt="image" src="https://github.com/user-attachments/assets/5f529681-5d1e-4533-ab50-08c77e4422f9" />
-  
+
+  <img width="788" height="269" alt="R2" src="https://github.com/user-attachments/assets/da9c0cad-3cb0-41a1-85f2-cadfbc3efcfd" />
+
 🎯Observations:
 
 - Top traffic sources: Google (38.4K) and Direct (19.9K).
@@ -121,12 +118,11 @@ Evaluate how each marketing channel contributes to total revenue by week and mon
 
 📖SQL code:
   
-  <img width="981" height="405" alt="image" src="https://github.com/user-attachments/assets/bb9b437e-0c0a-48f8-8a32-ec3daabfcde6" />
-
+<img width="727" height="662" alt="C3" src="https://github.com/user-attachments/assets/27f65664-78fd-42e2-bfb2-8817ce2c05cb" />
 
 ✅Result:
   
-  <img width="981" height="201" alt="image" src="https://github.com/user-attachments/assets/6c2035c3-58ff-41ea-871a-203e189f6eed" />
+<img width="981" height="405" alt="R3" src="https://github.com/user-attachments/assets/ac13e03e-2dc0-4ed4-836f-b86001534872" />
 
 🎯Observations:
 
@@ -136,13 +132,12 @@ Evaluate how each marketing channel contributes to total revenue by week and mon
 Compare browsing behavior between purchasers and non-purchasers to see how engagement impacts the chance of buying.
 
 📖SQL code:
-  
-  <img width="841" height="663" alt="image" src="https://github.com/user-attachments/assets/1268c9e2-900e-48c9-84b9-6a6ccd85ea00" />
 
+<img width="841" height="663" alt="C4" src="https://github.com/user-attachments/assets/7dea9e07-d22b-4da5-8306-213839ff0347" />
 
 ✅Result:
-  
-  <img width="764" height="98" alt="image" src="https://github.com/user-attachments/assets/43ac4b1a-966a-4d0e-95b5-ba1ab04ceb9e" />
+
+<img width="636" height="100" alt="R4" src="https://github.com/user-attachments/assets/7a1757eb-5ddb-4776-a266-22878ce28047" />
 
 🎯Observations:
 
@@ -154,12 +149,10 @@ Identify customer repurchase behavior by calculating the average number of trans
 
 📖SQL code:
   
-  <img width="867" height="200" alt="image" src="https://github.com/user-attachments/assets/2a90b6e5-b250-4a82-8184-b1daa5d73487" />
-
 
 ✅Result:
   
-  <img width="580" height="74" alt="image" src="https://github.com/user-attachments/assets/1c4cab41-6919-4a27-aeae-9dce77b96df5" />
+<img width="586" height="63" alt="R5" src="https://github.com/user-attachments/assets/8d458f09-70f5-4e90-8e6e-dce20536b4dc" />
   
 🎯Observations:
 
@@ -170,12 +163,11 @@ Measure the average purchase value per session to estimate session profitability
 
 📖SQL code:
   
-  <img width="824" height="201" alt="image" src="https://github.com/user-attachments/assets/b3d78115-5277-4fe4-8a02-4568e800c91d" />
-
+<img width="824" height="201" alt="C6" src="https://github.com/user-attachments/assets/9424ed1a-58a3-4c7b-abb2-9147018e74e2" />
 
 ✅Result:
 
-  <img width="560" height="63" alt="image" src="https://github.com/user-attachments/assets/09488836-f9ff-48d9-a7b4-aced6d208aa7" />
+<img width="559" height="67" alt="R6" src="https://github.com/user-attachments/assets/f586a6e2-f497-482a-96c9-dbccc26f9fb7" />
 
 🎯Observations:
 
@@ -186,12 +178,11 @@ Discover product bundling and cross-selling patterns by finding items frequently
 
 📖SQL code:
   
-  <img width="739" height="444" alt="image" src="https://github.com/user-attachments/assets/c8da52c5-e68a-4a79-93c2-60524b65a176" />
-
+<img width="733" height="469" alt="C7" src="https://github.com/user-attachments/assets/d686066c-4b06-4104-ac73-e9591592d448" />
 
 ✅Result:
 
-  <img width="482" height="235" alt="image" src="https://github.com/user-attachments/assets/a09af944-0e4d-49a0-82be-81c9927a061d" />
+<img width="482" height="235" alt="R7" src="https://github.com/user-attachments/assets/12a953f0-cd6a-46df-8b63-7ceda1be8dd4" />
 
 🎯Observations:
 
@@ -202,12 +193,11 @@ Analyze the conversion funnel to see where users drop off between viewing, addin
 
 📖SQL code:
   
-  <img width="1312" height="413" alt="image" src="https://github.com/user-attachments/assets/f380b761-7580-4a15-8803-5ce1b35ceaa1" />
-
+<img width="1071" height="484" alt="C8" src="https://github.com/user-attachments/assets/1f1a9f66-68d0-4b82-a5d1-9f2bf153b480" />
 
 ✅Result:
   
-  <img width="1098" height="133" alt="image" src="https://github.com/user-attachments/assets/dece4685-f9ed-497b-bb5d-317c814a96a5" />
+<img width="1101" height="133" alt="R8" src="https://github.com/user-attachments/assets/b3e76703-dbc8-4aec-9fd1-6eb978793733" />
 
 🎯Observations:
 
